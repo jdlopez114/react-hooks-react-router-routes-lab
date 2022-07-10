@@ -16,7 +16,10 @@ function Actors() {
     )
   })
 
-  return <div>{actorsList}</div>;
+  return <div>
+    <h1>Actors Page</h1>
+      {actorsList}
+    </div>;
 }
 
 export default Actors;
