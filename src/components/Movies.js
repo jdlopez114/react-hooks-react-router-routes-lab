@@ -13,7 +13,7 @@ function Movies() {
           })}
         </ul>
       </div>
-      )
+    )
   })
 
   return <div>{moviesList}</div>;

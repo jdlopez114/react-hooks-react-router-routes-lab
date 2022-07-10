@@ -13,10 +13,8 @@ function Actors() {
           })}
         </ul>
       </div>
-      )
+    )
   })
-
-
 
   return <div>{actorsList}</div>;
 }
